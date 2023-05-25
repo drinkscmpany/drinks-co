@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+drinksandco.com	TRUE	/	FALSE	1999999999	currency_code	USD
+.drinksandco.com	TRUE	/	FALSE	1999999999	SSID_p_drinksco	71d5287403f7d2dad034eb7f95d6007c
+www.drinksandco.com	TRUE	/	FALSE	1999999999	SameSite	None
+drinksandco.com	TRUE	/	FALSE	1999999999	visitor_utm	%7B%22utm_source%22%3A%22direct%22%2C%22utm_medium%22%3A%22%22%2C%22utm_campaign%22%3A%22%22%7D
+drinksandco.com	TRUE	/	FALSE	1999999999	origin_sources	%5B%7B%22source%22%3A%22direct%22%2C%22content%22%3A%22%22%7D%5D
+drinksandco.com	TRUE	/	FALSE	1999999999	cookie_policy	1
+drinksandco.com	TRUE	/	FALSE	1999999999	email_register	6
+drinksandco.com	TRUE	/	FALSE	1999999999	current_utm	%7B%22utm_source%22%3A%22direct%22%2C%22utm_medium%22%3A%22%22%2C%22utm_campaign%22%3A%22%22%7D
+

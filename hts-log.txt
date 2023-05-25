@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 May 2023 15:20:50 at https://drinks-co.github.io/Drinks-Co/job-portal-website-master/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://drinks-co.github.io/Drinks-Co/job-portal-website-master/index.html -O1 "C:\My Web Sites\drinks" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:21:20	Error: 	"Not Found" (404) at link https://drinks-co.github.io/Drinks-Co/job-portal-website-master/img/favicon.ico (from https://drinks-co.github.io/Drinks-Co/job-portal-website-master/index.html)
+15:21:25	Error: 	"Not Found" (404) at link https://drinks-co.github.io/Drinks-Co/job-portal-website-master/lib/waypoints/waypoints.min.js (from https://drinks-co.github.io/Drinks-Co/job-portal-website-master/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 47 seconds : 34 links scanned, 30 files written (16484062 bytes overall), 30 files updated [15988424 bytes received at 340179 bytes/sec], 725756 bytes transferred using HTTP compression in 22 files, ratio 24%, 3.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
